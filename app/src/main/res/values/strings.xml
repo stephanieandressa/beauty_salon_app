@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kibeleza</string>
+    <string name="title_home">Agenda</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_busca_agenda">BuscaAgendaActivity</string>
+</resources>
